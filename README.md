@@ -29,7 +29,7 @@
 
 ### En progreso...
 
-* Actualmente estoy profundizando en Haskell, Lisp y aprendiendo Rust.
+* Actualmente estoy profundizando en Haskell, Lisp y aprendiendo Erlang.
 
 ### Formas de programación
 
