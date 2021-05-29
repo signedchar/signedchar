@@ -1,13 +1,13 @@
-### Perfíl técnico breve
+### Resume
 
-- Sysadmin con GNU/Linux, programador en Bash y Python.
+- Sysadmin with GNU/Linux, Bash, Haskell and Python programmer.
 
-### Metas 
+### Goals 
 
-- Profundizar en lenguajes como Haskell, Erlang/Elixir y Common Lisp. 
-- **¿por qué estos lenguajes?**, son más divertidos.
+- Go deeper with Haskell, Erlang/Elixir and Common Lisp. 
+- **Why this languages?**, more fun and very instructive.
 
-### Estadísticas Github
+### Github Stats
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=signedchar&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 
