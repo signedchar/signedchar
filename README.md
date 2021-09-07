@@ -1,11 +1,11 @@
 ### Resume
 
-- Sysadmin with GNU/Linux, Bash, Haskell and Python programmer.
+- Sysadmin with GNU/Linux, Bash, Common Lisp and python programmer.
 
 ### Goals 
 
-- Go deeper with Haskell, Erlang/Elixir and Common Lisp. 
-- **Why this languages?**, more fun and very instructive.
+- Playing with lisp
+- **Why?**, So fun.
 
 ### Github Stats
 
